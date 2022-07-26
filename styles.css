@@ -1,0 +1,20 @@
+.factoid {
+    background-color: cornflowerblue;
+    border: 2px solid blue;
+    padding: 10px 10px 2px 10px;    /* T R B L*/
+    margin: 10px 50px 10px 50px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.true:hover {
+    background-color:blue; 
+    color: aliceblue;
+}
+
+.false:hover {
+    background-color:crimson;
+    border-color: crimson;
+    color: whitesmoke;
+}
